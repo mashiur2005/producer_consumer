@@ -1,0 +1,7 @@
+{
+    "name" : "POST",
+    "scripts" : {
+        "start" : "node index.js"
+    },
+    "version" : "0.0.0"
+}
